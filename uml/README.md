@@ -1,0 +1,1 @@
+uml folder contains all diagram needed to understand structural notions from the project 

@@ -1,0 +1,1 @@
+lib folder contains all libraries needed to compile this project

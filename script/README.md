@@ -1,0 +1,1 @@
+script folder is used in order to compile automatically all files and libraries needed
